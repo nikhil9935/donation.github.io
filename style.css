@@ -40,7 +40,11 @@
     align-items: left;
     size: 500px;
   }
+  
+  img{
+    border-radius: 50px;
+  }
   html{
-    background-image:url('https://tse4.mm.bing.net/th?id=OIP.gJxFBtslbyl-4oOZZDzGVQHaDX&pid=Api&P=0&w=381&h=174');
+    background-image: url('https://tse4.mm.bing.net/th?id=OIP.gJxFBtslbyl-4oOZZDzGVQHaDX&pid=Api&P=0&w=381&h=174');
   }
   
