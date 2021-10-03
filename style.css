@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "ARIALt", sans-serif;
+  }
+  h1 {
+    font-size:30px;
+    text-align:center;
+    color:black;
+  }
+  h2{
+    text-align: center;
+    color:rgb(128, 128, 128);
+  }
+  h3{
+    color:darkviolet;
+    text-align: right;
+  }
+  
+  main {
+    width: 100%;
+    height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    text-align: center;
+  }
+  #btn {
+    display: block;
+    
+    color: red;
+    font-family: Georgia, serif;
+    font-size: 34px;
+    block-size: 44px;
+    border-radius: 500000000px;
+    text-align: center;
+    margin-left: 0px;
+    align-items: left;
+    size: 500px;
+  }
+  html{
+    background-image:url('https://tse4.mm.bing.net/th?id=OIP.gJxFBtslbyl-4oOZZDzGVQHaDX&pid=Api&P=0&w=381&h=174');
+  }
+  
